@@ -1,16 +1,11 @@
 {
   "name": "corehalla-wiki",
   "version": "1.0.0",
-  "description": "",
-  "author": "Victoria Bergquist",
+  "description": "Community powered wiki for Brawlhalla",
   "license": "MIT",
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/vicbergquist/codesandbox-vuepress"
+    "dev": "vuepress dev wiki",
+    "build": "vuepress build wiki"
   },
   "devDependencies": {
     "vuepress": "^1.0.0"
