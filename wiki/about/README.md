@@ -1,1 +1,7 @@
-# HELLO
+# About
+
+# Legends
+
+# Weapons
+
+# Gamemodes
